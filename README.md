@@ -1,6 +1,6 @@
 # RacingBibNumberRecognition
 
-### 1. Os links para as imagens encontram-se nos algoritmos.
+### 1. Os links para as imagens encontram-se nos notebooks, em diretório notebooks.
 
 ### 2. Sugestão de melhoria: artigo fpls-11-00898.pdf.
 
